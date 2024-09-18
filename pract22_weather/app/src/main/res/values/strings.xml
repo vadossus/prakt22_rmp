@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pract22_weather</string>
+    <string name="weather">Погода</string>
+    <string name="enter_city_edit">Введите город</string>
+    <string name="pressure">Давление:</string>
+    <string name="temperature">Температура:</string>
+    <string name="city">Город:</string>
+    <string name="search">Поиск</string>
+</resources>
